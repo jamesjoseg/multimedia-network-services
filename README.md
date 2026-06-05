@@ -1,4 +1,4 @@
-# Serviços Multimídia e Engenharia de Tráfego (QoS)
+# Serviços Multimídia e Tráfego (QoS)
 
 Este repositório documenta a implementação e análise de serviços de tempo real realizados no 3º semestre. O foco central é o impacto das métricas de rede (Latência, Jitter e Perda de Pacotes) na experiência do usuário (QoE) em serviços de voz, vídeo e jogos.
 
