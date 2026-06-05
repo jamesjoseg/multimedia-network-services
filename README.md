@@ -1,6 +1,6 @@
 # Serviços Multimídia e Tráfego (QoS)
 
-Este repositório documenta a implementação e análise de serviços de tempo real realizados no 3º semestre. O foco central é o impacto das métricas de rede (Latência, Jitter e Perda de Pacotes) na experiência do usuário (QoE) em serviços de voz, vídeo e jogos.
+Este repositório documenta a implementação e análise de serviços de tempo real realizados no 3º semestre. O foco central é o impacto das métricas de rede (Latência, Jitter e Perda de Pacotes) na experiência do usuário em serviços de voz, vídeo e jogos.
 
 ## 🛠️ Ferramentas e Protocolos
 * **Análise de VoIP/Vídeo:** SIP, RTP, RTCP, RTSP, IAX2.
